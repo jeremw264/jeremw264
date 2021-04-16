@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeremw264
+- 👋 Hi, I’m Jérémy Woirhaye | @jeremw264
 
 I am currently a student at the University of Lille in SESI, I am passionate about computer science as a whole and I love to discover new things in the field
 
