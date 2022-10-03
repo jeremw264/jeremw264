@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jérémy Woirhaye | @jeremw264
 
-I am currently a student at the University of Lille in L2 INFO, I am passionate about computer science as a whole and I love to discover new things in the field
+I am currently a student at the University of Lille in L3 INFO, I am passionate about computer science as a whole and I love to discover new things in the field
 
 <!---
 jeremw264/jeremw264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
