@@ -6,8 +6,6 @@
 
 🚀 In addition to my studies, I engage in side projects driven by my passion for innovation and continuous improvement.
 
-![](https://github-readme-stats-p8cu-jeremw264s-projects.vercel.app/api/top-langs/?langs_count=20&count_private=true&username=jeremw264&include_all_commits=true&layout=compact)
-
 ## 🚀 Frameworks & Library
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
